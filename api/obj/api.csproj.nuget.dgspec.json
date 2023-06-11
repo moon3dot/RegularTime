@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj": {}
+    "d:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj": {}
   },
   "projects": {
-    "D:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj": {
+    "d:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj",
+        "projectUniqueName": "d:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "D:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj",
+        "projectPath": "d:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\api.csproj",
         "packagesPath": "C:\\Users\\moon3\\.nuget\\packages\\",
-        "outputPath": "D:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\obj\\",
+        "outputPath": "d:\\file_moon3dot\\all webAPI practice\\RegularTime\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moon3\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.2, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.19.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
