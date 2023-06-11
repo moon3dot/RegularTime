@@ -1,0 +1,11 @@
+/************************************************************\
+                            moon3dot
+                            
+ A successful project to fix the problems of time management
+ software for people who use it inside Iran so that they can
+ easily use the software without restrictions.
+
+
+        (Hopefully one day we will try to progress)
+
+\************************************************************/        
